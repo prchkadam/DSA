@@ -17,3 +17,6 @@ int main() {
     pattern3(n);
     return 0;
 }
+
+// TC : n^2
+// SP : 1
