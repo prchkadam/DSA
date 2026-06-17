@@ -3,6 +3,9 @@ using namespace std;
 
 void insertion()
 {
+    //slower because it can insert elements anywhere in the vector. To do this, it must shift all elements to the right of the insertion point to make room.
+    // insert takes linear O(N) time
+
     vector<int> v(6, 40);
     for (auto it : v)
     {

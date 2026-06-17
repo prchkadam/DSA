@@ -3,6 +3,9 @@ using namespace std;
 
 void vectors()
 {
+    // Vector: Vector is a type of dynamic array which has the ability to resize automatically after insertion or deletion of elements.
+    // When primary goal is reading/finding data quickly using indexes, or when appending data to the very end.
+
     vector<int> a;
     a.push_back(15);
     a.emplace_back(82);
