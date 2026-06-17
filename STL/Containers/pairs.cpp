@@ -14,7 +14,7 @@ void pairs(){
     pair<string , char >c = {"hellow world" , '@'};
     cout << c.first << " " << c.second << "\n";
 
-    // now two pairs can have same name even if datatype is different
+    // no two pairs can have same name even if datatype is different
 
     //Nested Pairs
     pair<int , pair<string , char >>d = {45 , {"hehehehe" , '$'}};
