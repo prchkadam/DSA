@@ -11,4 +11,4 @@ Insert (push) = O(log n)
 Extract Max / Min (pop) = O(log n)
 Peek (top) = O(1)
 
-priority_queue< datatype > q;
+priority_queue <datatype> q;
