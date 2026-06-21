@@ -10,6 +10,7 @@ count() = Returns the count of a particular element in the unordered_multiset.
 
 clear() = Deletes all the elements in the unordered_multiset.
 
+Basic Maths
 find() = Searches for an element in the unordered_multiset and returns an iterator to it if found, otherwise returns end().
 
 erase()= Deletes a single element or elements between a specified range.
